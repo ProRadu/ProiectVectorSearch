@@ -1,0 +1,4 @@
+oracledb
+sentence-transformers
+pandas
+python-dotenv
